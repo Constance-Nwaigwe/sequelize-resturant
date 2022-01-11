@@ -1,0 +1,24 @@
+{
+  "name": "sequelize-resturant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Constance-Nwaigwe/sequelize-resturant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Constance-Nwaigwe/sequelize-resturant/issues"
+  },
+  "homepage": "https://github.com/Constance-Nwaigwe/sequelize-resturant#readme",
+  "dependencies": {
+    "jest": "^27.4.7",
+    "sequelize": "^6.13.0",
+    "sqlite3": "^5.0.2"
+  }
+}
